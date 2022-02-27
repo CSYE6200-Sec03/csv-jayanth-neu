@@ -1,6 +1,3 @@
-# csv-jayanth-neu
-csv-jayanth-neu created by GitHub Classroom
-
 
 Create a Student Comma Separated Value (CSV) text file (students.txt) file, where each line will contain data for instantiating a single Student object.
 
